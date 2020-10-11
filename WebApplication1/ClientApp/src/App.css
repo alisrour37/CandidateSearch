@@ -1,0 +1,36 @@
+/* Provide sufficient contrast against white background */
+a {
+	color: #0366d6;
+}
+
+code {
+	color: #e01a76;
+}
+body {
+	background-color: #efefef;
+}
+.btn-primary {
+	color: #fff;
+	background-color: #1b6ec2;
+	border-color: #1861ac;
+}
+.loading {
+	margin: auto auto;
+	font-size: 20px;
+	font-weight: bold;
+}
+.App-header {
+	background-color: #efefef;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: #222b6b;
+	z-index: 0;
+}
+.noExist {
+	text-align: center;
+	width: 100%;
+}
