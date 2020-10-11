@@ -1,4 +1,5 @@
 # CandidateSearch
+Open Visual Studio 2019 and open the solution in the root path of this repository
 An application that retrieves candidate names for an HR to filter through
 This application is built using React, Asp.Net Core, and SQL Server.
 After downloading the code, Visual Studio should handle downloading the packages.
